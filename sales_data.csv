@@ -1,0 +1,51 @@
+date,item,category,price,quantity
+2025-05-01,Burger,Food,8.5,40
+2025-05-01,Coke,Drink,2.0,30
+2025-05-01,Pizza,Food,10.0,25
+2025-05-01,Salad,Food,7.5,15
+2025-05-01,Iced Tea,Drink,3.0,20
+2025-05-02,Burger,Food,8.5,50
+2025-05-02,Coke,Drink,2.0,35
+2025-05-02,Pizza,Food,10.0,20
+2025-05-02,Chicken Wings,Food,9.0,30
+2025-05-02,Lemonade,Drink,2.5,25
+2025-05-03,Burger,Food,8.5,45
+2025-05-03,Pizza,Food,10.0,35
+2025-05-03,Salad,Food,7.5,25
+2025-05-03,Water,Drink,1.5,40
+2025-05-03,Fries,Food,4.0,50
+2025-05-04,Burger,Food,8.5,60
+2025-05-04,Coke,Drink,2.0,45
+2025-05-04,Chicken Wings,Food,9.0,40
+2025-05-04,Iced Tea,Drink,3.0,30
+2025-05-04,Pizza,Food,10.0,15
+2025-05-05,Pizza,Food,10.0,45
+2025-05-05,Salad,Food,7.5,35
+2025-05-05,Lemonade,Drink,2.5,40
+2025-05-05,Fries,Food,4.0,60
+2025-05-05,Burger,Food,8.5,30
+2025-05-06,Burger,Food,8.5,55
+2025-05-06,Coke,Drink,2.0,50
+2025-05-06,Chicken Wings,Food,9.0,25
+2025-05-06,Water,Drink,1.5,60
+2025-05-06,Pizza,Food,10.0,20
+2025-05-07,Pizza,Food,10.0,50
+2025-05-07,Salad,Food,7.5,20
+2025-05-07,Iced Tea,Drink,3.0,35
+2025-05-07,Fries,Food,4.0,45
+2025-05-07,Burger,Food,8.5,40
+2025-05-08,Burger,Food,8.5,35
+2025-05-08,Coke,Drink,2.0,60
+2025-05-08,Chicken Wings,Food,9.0,30
+2025-05-08,Lemonade,Drink,2.5,25
+2025-05-08,Pizza,Food,10.0,15
+2025-05-09,Pizza,Food,10.0,40
+2025-05-09,Salad,Food,7.5,30
+2025-05-09,Water,Drink,1.5,55
+2025-05-09,Fries,Food,4.0,50
+2025-05-09,Burger,Food,8.5,45
+2025-05-10,Burger,Food,8.5,65
+2025-05-10,Coke,Drink,2.0,40
+2025-05-10,Chicken Wings,Food,9.0,35
+2025-05-10,Iced Tea,Drink,3.0,30
+2025-05-10,Pizza,Food,10.0,25
